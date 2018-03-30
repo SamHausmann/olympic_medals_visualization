@@ -14,6 +14,7 @@ object Olympics {
     	lines
   	}
 
+  	// inital data projection into the form (Year, Country, Medal)
 	def parse(line: String): Medal = {
     	val l: List[String] = line.split(',').toList
 
@@ -34,12 +35,20 @@ object Olympics {
 
 	def main(args: Array[String]) {
 		
-
-		medalList
+		// group country and medal pairings by year
+		val yearCountryMedalMap: Map[String, Map[String, List[String]]] = medalList
 		.filter(_.Country != "x")
 		.map(x => x.Year -> (x.Country, x.Medal))
 		.groupBy(_._1)
-		.map(x => x._2.map(y => y._2))
+		.map(x => (x._1, x._2.map(y => y._2)))
+
+		// eliminate redundant country labels and then group medals by country, per year
+		.map{case (k, v) => (k, v.groupBy(_._1))}
+		.map{case (k, v) => (k, v.map(x => x._1 -> x._2.map(y => y._2)))}
+
+		// get all the medal counts
+		yearCountryMedalMap
+		.map{case (k, v) => (k, v.map(x => x._1 -> x._2.groupBy(identity).mapValues(_.size)))}
 		.foreach(x => println(x))
 	}
 
