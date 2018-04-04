@@ -19,30 +19,34 @@ name hashing:
 1 items
 0 -> true
 products:
-20 items
+21 items
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$1.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$2.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$3.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$4$$anonfun$apply$1.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$4.class
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5$$anonfun$apply$1.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5$$anonfun$apply$2.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5.class
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$2.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$3$$anonfun$apply$4.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$3.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6.class
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$3$$anonfun$apply$4.class
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$3.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$8$$anonfun$apply$9.class
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$8.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$6.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$7.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1.class
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$2.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal$.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal.class
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics.class
 binary dependencies:
-2 items
+5 items
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.3.0.jar
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.3.0.jar
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> /Users/samhausmann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
 direct source dependencies:
 0 items
@@ -61,31 +65,32 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-20 items
+21 items
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$1
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$2
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$3
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$4
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$4$$anonfun$apply$1
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$5
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$5$$anonfun$apply$1
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$5$$anonfun$apply$2
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$6
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$6$$anonfun$apply$2
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$6$$anonfun$apply$3
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$6$$anonfun$apply$3$$anonfun$apply$4
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$7
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$7$$anonfun$apply$3
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$7$$anonfun$apply$3$$anonfun$apply$4
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$7$$anonfun$apply$8
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$7$$anonfun$apply$8$$anonfun$apply$9
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$main$1
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$main$1$$anonfun$apply$5
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$6
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$7
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$$anonfun$main$2
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$Medal
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics.Olympics$Medal$
 used names:
-107 items
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> !=
+127 items
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> &&
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> -
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> ->
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> <init>
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> ==
@@ -107,11 +112,19 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Codec
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Coll
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Country
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> File
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Formats
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Function1
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> IndexOutOfBoundsException
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> InputStream
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Int
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Iterator
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JArray
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JObject
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JValue
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JsonAST
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JsonDSL
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> JsonMethods
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> K
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> List
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Map
@@ -122,6 +135,7 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Object
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Olympics
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Predef
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> PrintWriter
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Product
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> ScalaRunTime
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Serializable
@@ -135,9 +149,9 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> T2
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> T3
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> That
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Traversable
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Tuple2
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Tuple3
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> U
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Unit
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> Year
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> _1
@@ -148,10 +162,10 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> asInstanceOf
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> augmentString
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> canBuildFrom
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> close
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> compact
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> eq
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> fallbackSystemCodec
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> filter
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> foreach
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> fromInputStream
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> getClass
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> getDataStream
@@ -162,7 +176,9 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> immutable
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> io
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> isInstanceOf
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> jackson
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> java
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> json4s
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> k
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> l
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> length
@@ -170,64 +186,80 @@ used names:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> lines
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> m
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> map
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> map2jvalue
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> mapValues
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> medalList
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> ne
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> olympics
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> org
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> outputStr
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> package
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> parse
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> println
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> refArrayOps
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> render
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> runtime
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> scala
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> seq2jvalue
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> size
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> split
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> stream
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> string2jvalue
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> toList
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> toString
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> typedProductIterator
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> v
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> write
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> writer
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> x
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> x$4
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> x$5
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> y
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> yearCountryMedalMap
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> ||
 product stamps:
-20 items
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$1.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$2.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$3.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$4.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5$$anonfun$apply$1.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$2.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$3.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$7.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$2.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal$.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal.class -> lastModified(1522437354000)
-/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics.class -> lastModified(1522437354000)
+21 items
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$1.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$2.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$3.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$4$$anonfun$apply$1.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$4.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5$$anonfun$apply$2.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$5.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6$$anonfun$apply$3.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$6.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7$$anonfun$apply$8.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$7.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5$$anonfun$apply$7.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1$$anonfun$apply$5.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$$anonfun$main$1.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal$.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics$Medal.class -> lastModified(1522855134000)
+/Users/samhausmann/Programming/olympic_medals_visualization/target/scala-2.11/classes/olympics/Olympics.class -> lastModified(1522855134000)
 source stamps:
 1 items
-/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> hash(800fe1553c76100399b1089c9ecab051e3f08e2c)
+/Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> hash(94f2f86879e6ca4d329769872586403a99403c1c)
 binary stamps:
-2 items
+5 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.3.0.jar -> lastModified(1443877607000)
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar -> lastModified(1443877633000)
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.3.0.jar -> lastModified(1443877626000)
 /Users/samhausmann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
 class names:
-2 items
+5 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/samhausmann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Serializable
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.3.0.jar -> org.json4s.Implicits
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.3.0.jar -> org.json4s.Formats
+/Users/samhausmann/.ivy2/cache/org.json4s/json4s-jackson_2.11/jars/json4s-jackson_2.11-3.3.0.jar -> org.json4s.jackson.JsonMethods
+/Users/samhausmann/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction3
 internal apis:
 1 items
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7uJIbQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4ylg5XQABm5vdGlmeXNxAH4ADL+ge0x0AAd1bmFwcGx5c3EAfgAMXChBFHQAB2N1cnJpZWRzcQB+AAwrq/hHdAAJbWVkYWxMaXN0c3EAfgAMXDJS9HQABHdhaXRzcQB+AAzUMFwydAAOY29weSRkZWZhdWx0JDJzcQB+AAxNnuH1dAANJGFzSW5zdGFuY2VPZnNxAH4ADO+QAKZ0AAxwcm9kdWN0QXJpdHlzcQB+AAyii8QydAAGZXF1YWxzc3EAfgAMgJrqm3QAB0NvdW50cnlzcQB+AAzBu08TdAAMYXNJbnN0YW5jZU9mc3EAfgAMFwxBxHQABU1lZGFsc3EAfgAM/QpyhHQADHN5bmNocm9uaXplZHNxAH4ADHGJu7t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMOXuegXQABnR1cGxlZHNxAH4ADOMN99V0AAhjYW5FcXVhbHNxAH4ADL3RECV0AARtYWluc3EAfgAMGzJ1LnQADXByb2R1Y3RQcmVmaXhzcQB+AAzQXlMxdAAEWWVhcnNxAH4ADMRNqx10AAlub3RpZnlBbGxzcQB+AAyePkxWdAAIT2x5bXBpY3NzcQB+AAw1n4NydAAMaXNJbnN0YW5jZU9mc3EAfgAM0q0WmnQADWdldERhdGFTdHJlYW1zcQB+AAy2xuMhdAAGPGluaXQ+c3EAfgAMXljmNnQABWFwcGx5c3EAfgAM5bZAWnQABXBhcnNlc3EAfgAMcViEF3QAAj09c3EAfgAMqwIk4HQABWNsb25lc3EAfgAMf9xzIHQABiRpbml0JHNxAH4ADE3tyep0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADHDfFB90AARjb3B5c3EAfgAM4l5CuXQACHRvU3RyaW5nc3EAfgAM4l7h+3QAAiE9c3EAfgAMxrHfknQACGdldENsYXNzc3EAfgAMc0+zA3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMogxMCHQAAm5lc3EAfgAM1gqnF3QAAmVxc3EAfgAMpR2azXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADF0lhS10AAIjI3NxAH4ADOxR2nl0AAhmaW5hbGl6ZXNxAH4ADMUSEfN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADGNbKRR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABFvbHltcGljcy5PbHltcGljc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBrTAAJaW5oZXJpdGVkcQB+AGtMAAdwYXJlbnRzcQB+AGt4cQB+AIhzcQB+AIN1cQB+AGYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGxxAH4AdXVxAH4AdgAAAABzcQB+AHgAcQB+AC91cQB+AHsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ah3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCQeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB+dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCXWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCHc3EAfgCWdAAFQXJyYXlxAH4AnHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCWdAAGU3RyaW5nc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKdzcQB+AIN1cQB+AGYAAAAAc3EAfgCDdXEAfgC7AAAAAnNxAH4AlnQABk9iamVjdHEAfgC/c3EAfgCWdAADQW55cQB+AJx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhvbHltcGljc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYnhWbcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVL1VzZXJzL3NhbWhhdXNtYW5uL1Byb2dyYW1taW5nL29seW1waWNfbWVkYWxzX3Zpc3VhbGl6YXRpb24vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIAP4VU8dhADmbEInJ7KsFHj8I4s
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7uJIbQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAqc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4ylg5XQABm5vdGlmeXNxAH4ADL+ge0x0AAd1bmFwcGx5c3EAfgAMXChBFHQAB2N1cnJpZWRzcQB+AAwrq/hHdAAJbWVkYWxMaXN0c3EAfgAMXDJS9HQABHdhaXRzcQB+AAzUMFwydAAOY29weSRkZWZhdWx0JDJzcQB+AAxNnuH1dAANJGFzSW5zdGFuY2VPZnNxAH4ADO+QAKZ0AAxwcm9kdWN0QXJpdHlzcQB+AAyii8QydAAGZXF1YWxzc3EAfgAMgJrqm3QAB0NvdW50cnlzcQB+AAzBu08TdAAMYXNJbnN0YW5jZU9mc3EAfgAMFwxBxHQABU1lZGFsc3EAfgAM/QpyhHQADHN5bmNocm9uaXplZHNxAH4ADHGJu7t0AA0kaXNJbnN0YW5jZU9mc3EAfgAMOXuegXQABnR1cGxlZHNxAH4ADOMN99V0AAhjYW5FcXVhbHNxAH4ADL3RECV0AARtYWluc3EAfgAMGzJ1LnQADXByb2R1Y3RQcmVmaXhzcQB+AAzQXlMxdAAEWWVhcnNxAH4ADMRNqx10AAlub3RpZnlBbGxzcQB+AAyePkxWdAAIT2x5bXBpY3NzcQB+AAw1n4NydAAMaXNJbnN0YW5jZU9mc3EAfgAM0q0WmnQADWdldERhdGFTdHJlYW1zcQB+AAy2xuMhdAAGPGluaXQ+c3EAfgAMXljmNnQABWFwcGx5c3EAfgAM5bZAWnQABXBhcnNlc3EAfgAMcViEF3QAAj09c3EAfgAMqwIk4HQABWNsb25lc3EAfgAMf9xzIHQABiRpbml0JHNxAH4ADE3tyep0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADHDfFB90AARjb3B5c3EAfgAM4l5CuXQACHRvU3RyaW5nc3EAfgAM4l7h+3QAAiE9c3EAfgAMxrHfknQACGdldENsYXNzc3EAfgAMc0+zA3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMogxMCHQAAm5lc3EAfgAM1gqnF3QAAmVxc3EAfgAMpR2azXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADF0lhS10AAIjI3NxAH4ADOxR2nl0AAhmaW5hbGl6ZXNxAH4ADMUSEfN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADGNbKRR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABFvbHltcGljcy5PbHltcGljc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ag3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBrTAAJaW5oZXJpdGVkcQB+AGtMAAdwYXJlbnRzcQB+AGt4cQB+AIhzcQB+AIN1cQB+AGYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGxxAH4AdXVxAH4AdgAAAABzcQB+AHgAcQB+AC91cQB+AHsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ah3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCQeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgB+dAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCXWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCHc3EAfgCWdAAFQXJyYXlxAH4AnHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCWdAAGU3RyaW5nc3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKdzcQB+AIN1cQB+AGYAAAAAc3EAfgCDdXEAfgC7AAAAAnNxAH4AlnQABk9iamVjdHEAfgC/c3EAfgCWdAADQW55cQB+AJx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhvbHltcGljc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE9KXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVL1VzZXJzL3NhbWhhdXNtYW5uL1Byb2dyYW1taW5nL29seW1waWNfbWVkYWxzX3Zpc3VhbGl6YXRpb24vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJTy+Gh55spNMpdphyWGQDqZQDwc
 external apis:
 0 items
 source infos:
@@ -235,7 +267,7 @@ source infos:
 /Users/samhausmann/Programming/olympic_medals_visualization/src/main/scala/olympics.scala -> 
 AAAAAAAAAAA=
 compilations:
-72 items
+89 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYTAoDi91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9zYW1oYXVzbWFubi9Eb2N1bWVudHMvY3M0MjQwL3NpbXBsZS1zcGFyay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYXfDlfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9zYW1oYXVzbWFubi9Eb2N1bWVudHMvY3M0MjQwL3NpbXBsZS1zcGFyay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYXfEmFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9zYW1oYXVzbWFubi9Eb2N1bWVudHMvY3M0MjQwL3NpbXBsZS1zcGFyay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
@@ -308,3 +340,20 @@ compilations:
 69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYnhVlwx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 70 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYnhWB1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 71 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYnhWbcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+72 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoG6bpp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+73 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoG7QBh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+74 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoHaGN91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+75 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEfttx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+76 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEgFx91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+77 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEktw51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+78 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEpGEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+79 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEvQZ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+80 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEwctJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+81 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpExD8N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+82 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEyOwR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+83 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpEz4Sh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+84 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE4yz11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+85 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE7Apl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+86 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE7sfJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+87 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE8dXl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+88 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYpE9KXB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy9zYW1oYXVzbWFubi9Qcm9ncmFtbWluZy9vbHltcGljX21lZGFsc192aXN1YWxpemF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
