@@ -1,6 +1,9 @@
 <html>
   <head>
+    <meta charset="utf-8"/>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="../src/main/resources/summer/outputjson.json"></script>
+    <script type="text/javascript" src="../src/main/resources/summer/countrylist.json"></script>
     <script type="text/javascript">
       google.charts.load('current', {
         'packages':['geochart'],
@@ -12,24 +15,78 @@
 
       function drawRegionsMap() {
 
-        // choose region here
+        var result = outputjson
+        var countryKey = countrylist
+        var years = Object.keys(result)
 
+        var div = document.getElementById("regions_div")
+        var s = document.createElement("select")
+        s.id = "picker"
+         for (var y = 0; y < years.length; y++) {
+            var option = document.createElement("option")
+            option.text = years[y]
+            option.value = years[y]
+            s.add(option)
+          }
+
+        s.addEventListener(
+          'change',
+          function() { 
+            var year = document.getElementById("picker").value 
+
+            var table = []
+            var header = ['Country', 'Medal Score']
+            table.push(header)
+
+            var row = result[year]
+            var countries = Object.keys(row)
+
+            for(var i = 0; i < countries.length; i++) {
+              var gold = 0
+              var silver = 0
+              var bronze = 0
+              var medalScore = 0
+              var country = countries[i]
+              var countryName = countrylist[country]
+              for (var j = 0; j < row[country].length; j++) {
+                if (row[country][j] === "Gold") {
+                  gold++
+                  medalScore++
+                } else if (row[country][j] === "Silver") {
+                  silver++
+                  medalScore = medalScore + .5
+                } else if (row[country][j] === "Bronze") {
+                  bronze++
+                  medalScore = medalScore + .25
+                }
+              }
+              var temp = [countryName, medalScore]
+              table.push(temp)
+
+              var data = google.visualization.arrayToDataTable(table);
+
+              var options = {};
+
+              var dd = document.createElement("div")
+              dd.id = "draw_div"
+              div.appendChild(dd)
+
+              var chart = new google.visualization.GeoChart(document.getElementById('draw_div'));
+
+              chart.draw(data, options)
+            }
+
+            
+          },
+          false
+        )
+        div.appendChild(s)
+
+        
         var table = []
         var header = ['Country', 'Gold Medals', 'Silver Medals', 'Bronze Medals']
         table.push(header)
 
-        for (i in specified year:country map) {
-          var entry = [i.key, i.value.Bronze, i.value.Silver, i.value.Gold]
-          table.push(entry)
-        }
-
-        var data = google.visualization.arrayToDataTable(table);
-
-        var options = {};
-
-        var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
-
-        chart.draw(data, options);
       }
     </script>
   </head>
